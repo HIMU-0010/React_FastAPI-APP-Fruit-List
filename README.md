@@ -22,7 +22,8 @@ This project demonstrates a simple integration of FastAPI (Python backend) and R
 
    - Navigate to the `frontend` directory.
    - Install dependencies: `npm install`
-   - Run the development server: `npm start`
+   - Install axios: `npm install axios`
+   - Run the development server: `npm run dev`
    - Access the frontend application at address shown on your terminal
 
 ## Project Structure
